@@ -31,7 +31,7 @@ export default function Home() {
           </div>
 
           <h1 className="text-4xl md:text-5xl font-bold text-white tracking-tighter mb-6">
-            BAHRBEARIA<span className="text-primary inline-block hover:scale-110 transition-transform"></span>
+            Ethos Barbearia<span className="text-primary inline-block hover:scale-110 transition-transform"></span>
           </h1>
 
           <div className="flex flex-col md:flex-row gap-4 justify-center">
