@@ -24,7 +24,7 @@ export default function Home() {
         <div className="relative z-10 text-center px-4 flex flex-col items-center">
           <div className="mb-6 animate-fade-in">
             <img 
-              src="https://wwuclhmpvfjrtbfwoaub.supabase.co/storage/v1/object/public/Servicos/logo%20dvargas.png" 
+              src="https://rrwxenfxczyiqdjhhxem.supabase.co/storage/v1/object/public/logos/ethos.jpg" 
               alt="Logo" 
               className="w-40 h-40 md:w-52 md:h-52 object-contain"
             />
